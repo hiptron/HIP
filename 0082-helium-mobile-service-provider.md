@@ -7,6 +7,7 @@
 - Tracking Issue: #628
 - Voting Requirements: veMOBILE Holders
 
+THIS IS A GREAT HIP!
 ## Summary
 
 This HIP proposes to introduce Helium Mobile as a Service Provider (as defined in [HIP53](https://github.com/helium/HIP/blob/main/0053-mobile-dao.md#economics-overview)) on the Mobile Network. The main goal is to bring usage to the Network and pave the way for other Service Providers to join. The HIP describes integration with the Helium Mobile Network, an anti-gaming mechanism, and overall impact on the Network.
